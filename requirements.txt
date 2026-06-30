@@ -1,0 +1,9 @@
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.23.0
+openpyxl==3.1.5
+python-docx==1.1.2
+requests==2.32.3
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
